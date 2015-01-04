@@ -156,7 +156,7 @@ int ndof_init_first(NDOF_Device *in_out_dev, void *param)
                 axes_count += (evtype_mask[idx] & (1 << bit)) > 0;
             }
         } else {
-            fprintf(stderr, "%s\n", explain_ioctl(fd, EVIOCGBIT(EV_REL, sizeof evtype_mask), evtype_mask));
+            //fprintf(stderr, "%s\n", explain_ioctl(fd, EVIOCGBIT(EV_REL, sizeof evtype_mask), evtype_mask));
         }
 
 
