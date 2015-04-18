@@ -34,11 +34,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>9ebf216d1c9e25bbea05876e563c81b1</string>
+              <string>2fabe81bec0aabe67ff8b0722cb31f9c</string>
               <key>hash_algorithm</key>
               <string>md5</string>
               <key>url</key>
-              <string>http://depot.alchemyviewer.org/pub/linux64/lib/SDL-1.2.15-linux64-201501030357.tar.bz2</string>
+              <string>http://depot.alchemyviewer.org/pub/linux64/lib/SDL-1.2.15-linux64-201504181322.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux64</string>
@@ -94,7 +94,6 @@
           <key>manifest</key>
           <array>
             <string>include/*.h</string>
-            <string>CMakeLists.txt</string>
             <string>LICENSES/libndofdev.txt</string>
             <string>lib/release/*.a</string>
           </array>
@@ -133,7 +132,6 @@
           <key>manifest</key>
           <array>
             <string>include/*.h</string>
-            <string>CMakeLists.txt</string>
             <string>LICENSES/libndofdev.txt</string>
             <string>lib/release/*.a</string>
           </array>
