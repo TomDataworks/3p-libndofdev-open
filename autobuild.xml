@@ -34,11 +34,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>0af4eae4fd3a969ff3af542e1b3e4381</string>
+              <string>5c8df43ff04799f3f675b8a0f328f184</string>
               <key>hash_algorithm</key>
               <string>md5</string>
               <key>url</key>
-              <string>http://depot.alchemyviewer.org/pub/linux64/lib/SDL-1.2.15-linux64-201504222326.tar.bz2</string>
+              <string>http://depot.alchemyviewer.org/pub/linux64/lib-trusty/SDL-1.2.15-linux64-201603241005.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux64</string>
