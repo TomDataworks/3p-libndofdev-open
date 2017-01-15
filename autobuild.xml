@@ -22,9 +22,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>69ae3b1c9cdb0ebc0d0e1ac8413e3eb7</string>
+              <string>5afdd5bcb5fe737b4745b66947555e1f</string>
               <key>url</key>
-              <string>http://s3.amazonaws.com/viewer-source-downloads/install_pkgs/SDL-1.2.14-linux-20110309.tar.bz2</string>
+              <string>http://dwaggy.tk/singularity/SDL-1.2.15-linux-201701140155.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux</string>
