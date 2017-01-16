@@ -22,9 +22,9 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>5afdd5bcb5fe737b4745b66947555e1f</string>
+              <string>PACKAGE_DEPS_MD5SUM</string>
               <key>url</key>
-              <string>http://dwaggy.tk/singularity/SDL-1.2.15-linux-201701140155.tar.bz2</string>
+              <string>PACKAGE_DEPS_FILENAME</string>
             </map>
             <key>name</key>
             <string>linux</string>
